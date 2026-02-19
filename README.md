@@ -13,7 +13,7 @@ I’m currently focused on Marketing Analytics / Strategic Analytics.
 - 🔭 I completed my **Google- AI Essentials**.
 - 🔭 I completed my **Google- Prompting Essentials**.
 - 💬 Ask me about **SQL optimization or A/B testing**.
-- 📫 How to reach me: **[kevindo66.kd@gmail.com]** or **[www.linkedin.com/in/kien-t-do-1046]**.
+- 📫 How to reach me: **[kevindo66.kd@gmail.com]** or **[www.linkedin.com/in/kien-do-9a98903ab]**.
 
 #### 🛠 Tech Stack
 - **Languages:** SQL, R
